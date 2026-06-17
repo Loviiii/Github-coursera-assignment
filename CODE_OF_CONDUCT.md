@@ -62,3 +62,20 @@ Community Impact Guidelines were inspired by Mozilla’s code of conduct enforce
 
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
 
+## Enforcement Guidelines
+
+Community leaders will follow these guidelines when determining enforcement actions:
+
+1. Correction  
+   A private, written warning with clarity of violation and explanation.
+
+2. Warning  
+   A warning with consequences for continued behavior.
+
+3. Temporary Ban  
+   A temporary ban from any form of interaction with the project.
+
+4. Permanent Ban  
+   A permanent ban from the community for repeated violations or severe misconduct.
+
+All enforcement decisions will be made fairly and consistently based on the nature and impact of the behavior.
